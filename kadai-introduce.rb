@@ -3,8 +3,6 @@
   firstName = "敏博"
   myAge = 47
 
-  sayHello = lastName + firstName + 'です。 ' + myAge.to_s + 'です。'
-
-  puts sayHello
-
-
+  puts lastName + firstName + 'です。 ' + myAge.to_s + '歳です。'
+  
+  
